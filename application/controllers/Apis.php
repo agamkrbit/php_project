@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Apis extends Note_controller {
+class Apis extends CI_Controller {
 
 	function __construct(){
 		parent:: __construct();
